@@ -6,8 +6,8 @@
 #     print("true");
 # else:
 #     print("false");
- x = 4
- y = 5
+
+x = 4
+y = 5
  
-print (x== 2 and y== 3) 
-   
+print(x == 2 and y == 3) 

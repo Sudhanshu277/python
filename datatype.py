@@ -3,5 +3,5 @@ A="PN"
 b=23.4
 c=True
 
-print(type(a));
+print(type(c));
 # -pn, ram1, mohit_
